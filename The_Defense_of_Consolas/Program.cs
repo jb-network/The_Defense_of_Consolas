@@ -33,6 +33,9 @@ Console.Beep(450, 800);
 //Restore the console color back to green
 Console.ForegroundColor = ConsoleColor.Green;
 
+Console.WriteLine("Press any key to end program");
+Console.ReadKey();
+
 
 
 
